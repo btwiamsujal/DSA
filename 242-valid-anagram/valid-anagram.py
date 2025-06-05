@@ -5,10 +5,10 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
-        ans1 = ''.join(sorted(s))
-        ans2 = ''.join(sorted(t))
-        if ans1 == ans2:
-            return True
-        else:
+        if len(s) != len(t):
             return False
-        
+        else:
+            for l in set(s):
+                if (s.count(l) != t.count(l)):
+                    return False
+            return True
