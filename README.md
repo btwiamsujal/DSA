@@ -1,16 +1,7 @@
 # 🧠 DSA Practice (LeetCode)
 
-This repository contains my LeetCode solutions synced using the [LeetSync](https://marketplace.visualstudio.com/items?itemName=LeetCodeLeetSync.leetsync) VS Code extension.
+This repository contains my LeetCode solutions synced using the [LeetSync](https://chromewebstore.google.com/detail/leetsync-leetcode-to-gith/ppkbejeolfcbaomanmbpjdbkfcjfhjnd?hl=en) extension.
 
-## 📂 Structure
-
-```
-.
-├── Easy/
-├── Medium/
-├── Hard/
-└── README.md
-```
 
 ## 🔧 How It Works
 
@@ -19,7 +10,7 @@ This repository contains my LeetCode solutions synced using the [LeetSync](https
 
 ## 📚 Topics Covered
 
-* Arrays, Strings, Trees, Graphs, DP, Backtracking, etc.
+* Arrays, Strings, Trees, Graphs, DP, Backtracking, Sliding Window etc.
 
 ## 🚀 Purpose
 
