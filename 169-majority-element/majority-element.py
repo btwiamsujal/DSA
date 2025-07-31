@@ -18,6 +18,3 @@ class Solution(object):
         if k > len(nums) // 2:
             return el
         return -1
-
-        
-
