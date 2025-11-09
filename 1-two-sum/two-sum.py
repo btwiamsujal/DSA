@@ -5,7 +5,6 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        # Two Sum
         q = []
         for i in range(len(nums)):
             ans = target - nums[i]
